@@ -33,13 +33,13 @@ If you have all the prerequisites installed you should verify if your MongoDB is
 ```
 $ cd movies-app
 $ cd server
-$ yarn install
+$ npm install
 $ nodemon index.js
 ```
 
 ```
 $ cd movies-app
 $ cd client
-$ yarn install
-$ yarn start
+$ npm install
+$ npm start
 ```
